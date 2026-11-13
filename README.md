@@ -1,173 +1,118 @@
-# Loca Yolk
+# Loca Yolk — Independent Website Concept
 
-Family-run breakfast and lunch grill.
+**Project status:** Uncommissioned design demonstration  
+**Maintainer:** Evident Technologies LLC  
+**Portfolio destination:** Evident Forge (planned)  
+**Commercial status:** Not an active client engagement
 
-Loca Yolk is a family-run breakfast and lunch grill built around generous plates, fresh prep, and the kind of cooking people come back for.
+## Overview
 
----
+Loca Yolk is a static restaurant website concept developed as a demonstration of responsive web design, visual presentation, and lightweight website delivery.
 
-## Preview Status
+The concept originated during discussions involving a prospective client. The prospective client elected not to proceed with services.
 
-This site is currently a **static preview**. Menu items, hours, location, contact details, and business copy are placeholders until confirmed by the owners.
+This repository is retained as an independent development and portfolio reference. It does not represent an official Loca Yolk website, an approved client deliverable, or an ongoing business relationship.
 
-Before taking the site public, the owners should approve:
+## Project Status
 
-* Business name and description
-* Menu items and dish descriptions
-* Hours, address, and phone number
-* Social media handle
-* Photos, logo, and other visual assets
-* Final public domain and launch decision
+**Independent concept — not commissioned or endorsed.**
 
----
+The demonstration may contain illustrative menu information, business descriptions, imagery, hours, contact details, and other content that has not been independently verified or approved by the business owners.
 
-## Live Site
+No purchase, reservation, ordering, or business-contact functionality should be treated as operational unless expressly verified.
 
-🌐 https://isolano7.github.io/loca-yolk/
+### Publication restrictions
 
----
+Before presenting this project as a public portfolio demonstration:
+
+- Verify the origin and permitted use of all images, logos, and brand assets.
+- Remove or replace any unlicensed third-party materials.
+- Label fictional or placeholder business information clearly.
+- Avoid suggesting affiliation, endorsement, or client approval.
+- Review whether identifiable business branding should be replaced with a fictional identity.
 
 ## Repository
 
-GitHub Repository:
-https://github.com/ISolano7/loca-yolk
+**Current repository:**  
+https://github.com/evident-technologies/loca-yolk
 
-Repository Owner:
-@ISolano7
+**Maintainer:** Evident Technologies LLC
 
----
+**Future classification:** Evident Forge / Design Studies / Hospitality
 
-## About This Project
+The project may eventually be incorporated into Evident Forge as a reusable hospitality website concept. No migration or deployment is implied by this classification.
 
-This repository contains the static website preview for Loca Yolk.
+## Technical Overview
 
-The site is designed as a lightweight, deployment-friendly experience built with:
+The website is a lightweight static implementation using:
 
-* semantic HTML
-* modern CSS
-* accessibility-conscious structure
-* responsive layout systems
-* GitHub Pages deployment
+- Semantic HTML
+- Modern CSS
+- Responsive page layouts
+- Accessibility-conscious markup
+- Minimal deployment dependencies
 
-No frontend frameworks or build tooling are required.
-
-The project focuses on:
-
-* clean visual rhythm
-* mobile-first responsiveness
-* refined typography
-* calm motion design
-* and warm family-oriented branding.
-
----
+The design explores warm restaurant presentation, readable typography, simple navigation, and mobile-friendly layouts.
 
 ## Local Development
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/ISolano7/loca-yolk.git
+git clone https://github.com/evident-technologies/loca-yolk.git
 cd loca-yolk
 ```
 
-Run locally using any simple static server.
-
-### Option 1 — npx serve
-
-```bash
-npx serve .
-```
-
-### Option 2 — Python HTTP Server
+Serve the project locally using Python:
 
 ```bash
 python3 -m http.server 8080
 ```
 
-Then open:
+Open http://localhost:8080.
 
-* http://localhost:3000
-* or
-* http://localhost:8080
+Alternatively, use a compatible Node.js static server.
 
-depending on which server you use.
+## Design Study
 
----
+The concept explores:
+
+- Welcoming neighborhood hospitality
+- Clear menu presentation
+- Responsive restaurant landing pages
+- Accessible navigation
+- Warm typography and restrained motion
+- Lightweight, maintainable front-end architecture
+
+These are independent design objectives, not verified statements about the restaurant or its owners.
 
 ## Deployment
 
-The site deploys automatically through GitHub Pages when updates are pushed to the `main` branch.
+This repository may contain GitHub Pages configuration or related deployment workflows.
 
-Deployment flow:
+Any existing public preview is a demonstration only and must not be represented as an official restaurant website.
 
-1. Commit changes
-2. Push to `main`
-3. GitHub Actions deploys the updated site
-4. Changes go live automatically
+Future deployment under Evident Forge requires a separate review of content rights, repository configuration, public-facing disclaimers, and approved publication scope.
 
-Live deployment URL:
+## Intellectual Property and Licensing
 
-https://isolano7.github.io/loca-yolk/
+Business names, trademarks, logos, photographs, and other third-party materials remain subject to their respective owners' rights.
 
----
+Original source code and design work remain subject to their applicable authorship, contractual obligations, and licenses.
 
-## Project Structure
+No license to third-party branding or assets is granted by this repository.
 
-```text
-loca-yolk/
-├── index.html
-├── README.md
-├── assets/
-├── .github/
-└── scripts/
-```
+Unless a separate license expressly provides otherwise, public availability of the repository does not grant permission to reuse its code or creative assets.
 
----
+## Maintenance
 
-## Design Direction
+This project is retained for technical reference, design development, and possible future incorporation into Evident Forge.
 
-The Loca Yolk brand is built around:
+**Maintained by:** Evident Technologies LLC  
+**GitHub:** https://github.com/evident-technologies
 
-* welcoming hospitality
-* generous breakfast and lunch plates
-* fresh, simple ingredients
-* family-run hospitality
-* warm neighborhood feel
-* honest, unpretentious presentation.
-
-The experience intentionally avoids:
-
-* gimmick-heavy restaurant branding
-* excessive animation
-* exaggerated heat or cultural stereotypes
-* or trend-driven startup aesthetics.
-
-The goal is a timeless, warm, and approachable dining identity.
+No active client support or commercial services are associated with this demonstration.
 
 ---
 
-## Accessibility & Performance
-
-The site emphasizes:
-
-* semantic structure
-* keyboard accessibility
-* reduced-motion support
-* responsive layouts
-* optimized typography cadence
-* and lightweight static delivery.
-
----
-
-## Support
-
-For repository or deployment questions:
-
-GitHub:
-https://github.com/ISolano7
-
----
-
-## License
-
-All branding, creative assets, and original content associated with Loca Yolk remain the property of their respective owners unless otherwise stated.
+*Independent development study. Not affiliated with, commissioned by, or endorsed by Loca Yolk or its owners.*
