@@ -1,9 +1,13 @@
+
+> **2026-11-13 reconciliation proposal — not adopted.** Relationship conflict — historical attribution preserved below. Current hosting is evident-technologies/loca-yolk, while the source names ISolano7 as controller and asserts client ownership/engagement. Do not rely on either statement as a verified chain of title or engagement. Obtain written identity/asset permissions, rights provenance, and any executed engagement/transfer terms before public acceptance or relationship claims. No visibility or ownership change is authorized.
+
 # Managed Relationship
 
-**Repository:** ISolano7/loca-yolk
+**Historical repository attribution:** ISolano7/loca-yolk
+**Current GitHub hosting:** evident-technologies/loca-yolk
 **Client:** Ivan Solano
 **Agency:** Evident Technologies LLC
-**Relationship type:** Managed client satellite — prototype deployment
+**Relationship status:** Historical managed-client assertion conflicts with the current uncommissioned prototype disclaimer; engagement and rights remain unverified
 **Effective date:** 2026-05-14
 
 ---

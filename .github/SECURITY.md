@@ -1,3 +1,6 @@
+
+> **2026-11-13 reconciliation proposal — not adopted.** Current GitHub hosting is evident-technologies/loca-yolk; active operator routing is devontyler. Repository control does not determine legal ownership or prove a commissioned client relationship. Confirm a monitored private security channel and response commitment before adopting this policy; preserve confidential-reporting requirements.
+
 # Security Policy
 
 ## Supported Versions
@@ -28,8 +31,8 @@ Please include:
 
 This repository deploys to GitHub Pages via GitHub Actions. Access is managed by:
 
-- **Repository owner:** Ivan Solano (@ISolano7)
-- **Infrastructure manager:** Devon Tyler Barber, Evident Technologies LLC (@xTx396)
+- **Current GitHub hosting organization:** evident-technologies (legal title and engagement unresolved)
+- **Infrastructure manager:** Devon Tyler Barber, Evident Technologies LLC (active operator: @devontyler; @xTx396 is legacy attribution)
 
 ---
 
